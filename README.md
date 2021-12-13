@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zmeyuqaaa
 - 👀 I’m interested in music production
-- 🌱 I’m currently learning java scrit, HTML
+- 🌱 I’m currently learning Java script, HTML
 
 
 <!---
